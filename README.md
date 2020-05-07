@@ -9,3 +9,5 @@
 ### 3 Taller
 ### 4 Taller
 ### 5 Montaje y documentacion
+[Memoria](memoria_ecoembes.pdf) del trabajo por parejas.
+### 6 Presentación y puesta en común
